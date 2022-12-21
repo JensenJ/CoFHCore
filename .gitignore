@@ -19,3 +19,4 @@
 
 # Include Important Folders
 !src/
+src/main/generated/.cache
